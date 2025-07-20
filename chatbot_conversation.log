@@ -1,0 +1,400 @@
+2025-07-20 14:13:16,400 - User: hello
+2025-07-20 14:13:16,403 - Error during chat: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\hp/nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\share\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\hp\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-07-20 14:13:43,284 - User: how are you
+2025-07-20 14:13:43,287 - Error during chat: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\hp/nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\share\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\hp\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-07-20 14:13:49,996 - User: i am palak
+2025-07-20 14:13:50,000 - Error during chat: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\hp/nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\share\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\hp\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-07-20 14:13:53,037 - Chatbot session ended by user.
+2025-07-20 14:15:02,969 - User: hello
+2025-07-20 14:15:02,972 - POS tagging error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\hp/nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\share\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\hp\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-07-20 14:15:02,972 - Chatbot: Hello! How can I help you today?
+2025-07-20 14:15:15,488 - User: how is the weather
+2025-07-20 14:15:15,492 - POS tagging error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\hp/nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\share\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\hp\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-07-20 14:15:15,492 - Chatbot: I'm sorry, I didn't understand that. Could you rephrase?
+2025-07-20 14:15:22,362 - User: how are you
+2025-07-20 14:15:22,366 - POS tagging error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\hp/nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\share\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\hp\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-07-20 14:15:22,366 - Chatbot: I'm just a bot, but I'm doing well. How about you?
+2025-07-20 14:15:29,429 - User: i am good
+2025-07-20 14:15:29,432 - POS tagging error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\hp/nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\share\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\hp\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-07-20 14:15:29,432 - Chatbot: Could you please elaborate?
+2025-07-20 14:15:36,243 - Chatbot session ended by user.
+2025-07-20 14:18:52,762 - User: hello
+2025-07-20 14:18:52,765 - POS tagging error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\hp/nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\share\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\hp\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-07-20 14:18:52,765 - Chatbot: Hi there! How may I assist you?
+2025-07-20 14:18:58,799 - User: how is the weather 
+2025-07-20 14:18:58,805 - POS tagging error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\hp/nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\share\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\hp\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-07-20 14:18:58,805 - Chatbot: I'm sorry, I didn't understand that. Could you rephrase?
+2025-07-20 14:19:04,471 - User: how are you
+2025-07-20 14:19:04,474 - POS tagging error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\hp/nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\share\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\hp\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-07-20 14:19:04,474 - Chatbot: I'm just a bot, but I'm doing well. How about you?
+2025-07-20 14:19:09,867 - User: i am good
+2025-07-20 14:19:09,873 - POS tagging error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\hp/nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\share\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\hp\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-07-20 14:19:09,873 - Chatbot: I'm sorry, I didn't understand that. Could you rephrase?
+2025-07-20 14:19:15,551 - User: i am good
+2025-07-20 14:19:15,556 - POS tagging error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\hp/nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\share\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\hp\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-07-20 14:19:15,556 - Chatbot: I'm sorry, I didn't understand that. Could you rephrase?
+2025-07-20 14:20:59,991 - User: hello
+2025-07-20 14:20:59,996 - POS tagging error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\hp/nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\share\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\hp\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-07-20 14:20:59,996 - Chatbot: Hi there! How may I assist you?
+2025-07-20 14:21:04,403 - User: how are you
+2025-07-20 14:21:04,409 - POS tagging error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\hp/nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\share\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\hp\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-07-20 14:21:04,410 - Chatbot: I'm just a bot, but I'm doing well. How about you?
+2025-07-20 14:21:09,715 - User: i am good
+2025-07-20 14:21:09,719 - POS tagging error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\hp/nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\share\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\hp\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-07-20 14:21:09,719 - Chatbot: Could you please elaborate?
+2025-07-20 14:21:24,659 - User: yaa i am feeling excited
+2025-07-20 14:21:24,663 - POS tagging error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\hp/nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\share\\nltk_data'
+    - 'C:\\Users\\hp\\Downloads\\chatbot\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\hp\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-07-20 14:21:24,663 - Chatbot: I'm sorry, I didn't understand that. Could you rephrase?
+2025-07-20 14:21:41,883 - Chatbot session ended by user.
